@@ -1,0 +1,37 @@
+Main logo/header guidelines:
+font-family: 'Cherry Cream Soda', cursive;
+color: #2b2733;
+
+Typography
+
+Header 1
+font-family: 'Cherry Cream Soda', cursive;
+color: #2b2733;
+
+Header 2
+font-family: 'Rock Salt';
+color: #27332b;
+
+Header 3
+font-family: 'Cherry Cream Soda';
+color: #2b2733;
+
+Header 4
+font-family: 'Rock Salt';
+color: #27332b;
+
+Body Copy
+font-family: 'Droid Sans', sans-serif;
+color: #27332b;
+
+Google Fonts
+https://fonts.googleapis.com/css?family=Cherry+Cream+Soda
+https://fonts.googleapis.com/css?family=Rock+Salt
+https://fonts.googleapis.com/css?family=Droid+Sans
+
+Color Palette
+  background-color #1: #FFD7C7;
+  background-color #2: #9fbfcc;
+  background-color #3: #63777f;
+  font color #1: #2b2733;
+  font color #2: #27332b;

@@ -1,0 +1,86 @@
+body {
+  background-color: #FFD7C7;
+}
+h1 {
+  font-family: 'Cherry Cream Soda', cursive;
+  font-size: 96px;
+  color: #2b2733;
+  }
+h2 {
+    font-family: 'Rock Salt';
+    font-size: 64px;
+    color: #27332b;
+  }
+h3 {
+    font-family: 'Cherry Cream Soda';
+    font-size: 48px;
+    color: #2b2733;
+  }
+h4 {
+    font-family: 'Rock Salt';
+    font-size: 24px;
+    color: #27332b;
+  }
+p {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 16px;
+  color: #27332b;
+}
+ul {
+    font-family: 'Droid Sans', sans-serif;
+    list-style-type: circle;
+    color: #27332b;
+}
+img.logo {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+img.promotion {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+div.promo {
+  display: block;
+  float:left;
+  width: 45%;
+  padding-left: 60px;
+}
+div.quote {
+  display: block;
+  float: left;
+  width: 45%;
+  font-family: 'Rock Salt';
+  font-size: 24px;
+  color: #27332b;
+  text-align: center;
+  padding-bottom: 150px;
+  padding-right: 20px;
+}
+div.charts {
+  display: block;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+div.cart1 {
+  background-color: #9fbfcc;
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+div.cart2 {
+  background-color: #63777f;
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+div.title {
+  text-align: center;
+}
+div.about {
+  display: block;
+  padding-top: 300px;
+  padding-left: 20px;
+  padding-right: 400px;
+}
